@@ -6,8 +6,11 @@
 //const total = 100;
 //const ordered = 50;
 
+/* const total = 100;
+const ordered = 130; */
+
 const total = 100;
-const ordered = 130;
+const ordered = 80;
 
 if (ordered > total) {
     console.log("На складе недостаточно товаров!");

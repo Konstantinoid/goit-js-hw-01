@@ -10,7 +10,7 @@
 let credits = 23580;
 let pricePerDroid = 3000;
 let totalPrice;
-let input = prompt('Кол-во дроидов, кипить:',);
+let input = prompt('Кол-во дроидов, кипить:');
 if (input === null) {
     alert('Отменено пользоватилем');
 } else {

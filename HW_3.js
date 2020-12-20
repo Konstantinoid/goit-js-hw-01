@@ -7,9 +7,9 @@
 //const ADMIN_PASSWORD = 'jqueryismyjam';
 //let message;
 
-const ADMIN_PASSWORD = "jqueryismyjam";
+const ADMIN_PASSWORD = 'jqueryismyjam';
 let message;
-let input = prompt("Enter password");
+let input = prompt('Введите пароль');
 if (input === null) {
     message = 'Отменено пользователем!';
 } else if (input === ADMIN_PASSWORD) {
